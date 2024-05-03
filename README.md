@@ -2,6 +2,7 @@
 
 This tutorial is supplemental information for the Carpentries intro lesson on R. https://swcarpentry.github.io/r-novice-inflammation/
 
+https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro.html
 
 
 Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans
