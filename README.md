@@ -57,7 +57,15 @@ When you first open RStudio, you will be greeted by three panels:
 
 <br/>
 <br/>
+
+Once you open files, such as R scripts, an editor panel will also open in the top left.
+
+<img src="/images/rstudio2.png" width=800>
+
+
+
 <br/>
+
 
 
 In the terminal:
