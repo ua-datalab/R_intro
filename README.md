@@ -33,7 +33,13 @@ Rstudio can be ran on your local computer, on a server, or in the cloud (i.e., o
 
 ## Launch RStudio on Posit Cloud
 
-Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans. It is probably easiest to sign-in using your University of Arizona Google account. 
+For learning R/Rstudio, we will all use a cloud version of Rstudio hosted on Posit Cloud. Cloud instances of software are great for educational environments because they require minimal setup and avoid the pitfalls of local installation. The drawback of such an approach is that educational cloud instances often have low computing resources and requesting more resources costs $$. 
+
+Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans. It is probably easiest to sign-up using your University of Arizona Google account. 
+
+
+## Navigating the RStudio Interface
+
 
 
 <br/>
