@@ -100,6 +100,27 @@ or type
 <br/>
 <br/>
 <br/>
+
+#### Install New Packages
+
+install.packages("lidR")
+
+
+#### Bring Packages into Memory (ready for use)
+
+library("spatial")
+
+
+
+variable assignments
+
+
+
+
+
+
+
+
 <br/>
 <br/>
 <br/>
@@ -125,25 +146,4 @@ Unzip the file
 Once Unzipped, go into the data directory
 
 `cd data`
-
-
-
-
-
-variable assignments
-
-see what packages are installed in base
-
-how to install new packages from CRAN
-
-how to import packages into current working memory
-
-setwd()
-getwd()
-
-
-
-
-
-
 
