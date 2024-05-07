@@ -46,9 +46,11 @@ When you first open RStudio, you will be greeted by three panels:
 
 * The interactive R console/Terminal (entire left)
     * The console is for typing R commands (one at a time)
-    * The terminal is the Linux Command Line. This is where you give instructions to your underlying computer. 
+    * The terminal is the Linux Command Line. This is where you give instructions to your underlying computer.
+      
 * Environment/History/Connections (tabbed in upper right)
     * The environment pane will show all of your variables and objects
+      
 * Files/Plots/Packages/Help/Viewer (tabbed in lower right)
     * Files tab gives you access to the directories and files in the underlying computer
     * Plots tab will show graphical representations of data
