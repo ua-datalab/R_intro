@@ -45,6 +45,9 @@ Sign up for a free account with Posit Cloud to launch a cloud instance of RStudi
 When you first open RStudio, you will be greeted by three panels:
 
 * The interactive R console/Terminal (entire left)
+    * Type in R commands (one at a time)
+*  Terminal
+  * Linux Command Line 
 * Environment/History/Connections (tabbed in upper right)
 * Files/Plots/Packages/Help/Viewer (tabbed in lower right)
 
