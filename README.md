@@ -77,20 +77,23 @@ An R script (.R) is a file that holds multiple R commands that can be run automa
 <br/>
 <br/>
 
-Running segments of code from the script
+
 
 '#' is for comments, not code 
 
-<img src="/images/run.png" width=150>
+
 
 <img src="/images/script.png" width=300>
 
 #### Run a line of code 
 With the curser on the code line of interest, you can: 
 
-Click the 
+Click the <img src="/images/run.png" width=85>
+
+or type
 
  `CTRL` + `Return` on Windows or Linux
+ 
  `⌘` + `Return` on MacOS
  
 
