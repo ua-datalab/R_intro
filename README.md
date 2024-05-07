@@ -15,9 +15,19 @@ R is a scripting language originally developed at the University of Aukland, NZ 
 
 Scripting languages like R are very useful for data exploration and analysis because they offer limitless customization for instructing a computer to do something. They can, however, take more time to learn compared with purely graphical user interface (GUI) programs (think Microsoft Word). 
 
+<br/>
+<br/>
+<br/>
+
 ## What is RStudio?
 
-Rstudio is an integrated development environment (IDE) built specifically for using the R language. It was developed by Posit PBC and uses the license [GNU Affero General Public License version 3](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License)
+Rstudio is an integrated development environment (IDE) built specifically for using the R language. It was developed by [Posit PBC](https://posit.co/) and uses the license [GNU Affero General Public License version 3](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License)
+
+RStudio makes is easier and more ituitive to use the R language by providing point-and-click elements, a script editor, console, package management features, help documentation, and tools to visualize data graphs. 
+
+Rstudio can be ran on your local computer, on a server, or in the cloud (i.e., on a Posit Computer).
+
+
 
 How to navigate around Rstudio
 
