@@ -77,13 +77,14 @@ An R script (.R) is a file that holds multiple R commands that can be run automa
 <br/>
 <br/>
 
-
-
-'#' is for comments, not code 
-
-
+#### Type some commands in the script editor
 
 <img src="/images/script.png" width=300>
+
+'#' makes the line a comment and disables it as code 
+
+<br/>
+<br/>
 
 #### Run a line of code 
 With the curser on the code line of interest, you can: 
@@ -96,6 +97,12 @@ or type
  
  `⌘` + `Return` on MacOS
  
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 In the terminal:
 
