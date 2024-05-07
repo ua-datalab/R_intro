@@ -81,6 +81,9 @@ Running segments of code from the script
 
 '#' is for comments, not code 
 
+<img src="/images/run.png" width=150>
+
+<img src="/images/script.png" width=300>
 
 #### Run a line of code 
 With the curser on the code line of interest, you can: 
