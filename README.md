@@ -9,7 +9,9 @@ https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro.html
 <br/>
 <br/>
 
-What is R?
+## What is R?
+
+R is a scripting language originally developed at the University of Aukland, NZ for statistically data analysis. R software is open-source and free software and uses [GNU General Public License](https://en.wikipedia.org/wiki/GNU_General_Public_License#Version_2). 
 
 What is RStudio?
 
@@ -18,6 +20,8 @@ How to navigate around Rstudio
 What is the difference between the console and R script?
 
 Running segments of code from the script
+
+'#' is for comments, not code 
 
 variable assignments
 
