@@ -21,7 +21,7 @@ Scripting languages like R are very useful for data exploration and analysis bec
 
 ## What is RStudio?
 
-Rstudio is an integrated development environment (IDE) built specifically for using the R language. It was developed by [Posit PBC](https://posit.co/) and uses the license [GNU Affero General Public License version 3](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License)
+Rstudio is an integrated development environment (IDE) built specifically for using the R language. It was developed by [Posit PBC](https://posit.co/) and uses the license [GNU Affero General Public License version 3](https://en.wikipedia.org/wiki/GNU_Affero_General_Public_License).
 
 RStudio makes is easier and more ituitive to use the R language by providing point-and-click elements, a script editor, console, package management features, help documentation, and tools to visualize data graphs. 
 
@@ -33,10 +33,12 @@ Rstudio can be ran on your local computer, on a server, or in the cloud (i.e., o
 
 ## Launch RStudio on Posit Cloud
 
-For learning R/Rstudio, we will all use a cloud version of Rstudio hosted on Posit Cloud. Cloud instances of software are great for educational environments because they require minimal setup and avoid the pitfalls of local installation. The drawback of such an approach is that educational cloud instances often have low computing resources and requesting more resources costs $$. 
+For learning R/Rstudio today, we will all use a cloud version of Rstudio hosted on Posit Cloud. Cloud instances of software are great for educational environments because they require minimal setup and avoid the pitfalls of local installation. The drawback of such an approach is that educational cloud instances often have low computing resources and requesting more resources costs $$. We will interact with cloud Rstudio using a web browser (e.g, Google Chrome). 
 
 Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans. It is probably easiest to sign-up using your University of Arizona Google account. 
 
+<br/>
+<br/>
 
 ## Navigating the RStudio Interface
 
