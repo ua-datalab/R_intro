@@ -82,6 +82,14 @@ Running segments of code from the script
 '#' is for comments, not code 
 
 
+#### Run a line of code 
+With the curser on the code line of interest, you can: 
+
+Click the 
+
+ `CTRL` + `Return` on Windows or Linux
+ `⌘` + `Return` on MacOS
+ 
 
 In the terminal:
 
