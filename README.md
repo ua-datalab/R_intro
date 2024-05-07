@@ -67,13 +67,19 @@ When you first open RStudio, you will be greeted by three panels:
 <br/>
 <br/>
 
-Once you open files, such as R scripts, an editor panel will also open in the top left.
+Once you open files, such as R scripts, an editor panel will also open in the top left. 
+
+An R script (.R) is a file that holds multiple R commands that can be run automatically in sequence. 
 
 <img src="/images/rstudio2.png" width=800>
 
 
-
 <br/>
+<br/>
+
+Running segments of code from the script
+
+'#' is for comments, not code 
 
 
 
@@ -99,13 +105,9 @@ Once Unzipped, go into the data directory
 
 `cd data`
 
-How to navigate around Rstudio
 
-What is the difference between the console and R script?
 
-Running segments of code from the script
 
-'#' is for comments, not code 
 
 variable assignments
 
