@@ -42,6 +42,8 @@ Sign up for a free account with Posit Cloud to launch a cloud instance of RStudi
 
 ## Navigating the RStudio Interface
 
+<img src="../images/rstudio.png" width=400>
+<br/>
 
 
 <br/>
