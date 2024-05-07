@@ -124,6 +124,7 @@ variable assignments
 <br/>
 <br/>
 <br/>
+## Download Patient Data
 
 In the terminal:
 
