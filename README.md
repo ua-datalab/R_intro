@@ -45,11 +45,15 @@ Sign up for a free account with Posit Cloud to launch a cloud instance of RStudi
 When you first open RStudio, you will be greeted by three panels:
 
 * The interactive R console/Terminal (entire left)
-    * Type in R commands (one at a time)
-*  Terminal
-  * Linux Command Line 
+    * The console is for typing R commands (one at a time)
+    * The terminal is the Linux Command Line. This is where you give instructions to your underlying computer. 
 * Environment/History/Connections (tabbed in upper right)
+    * The environment pane will show all of your variables and objects
 * Files/Plots/Packages/Help/Viewer (tabbed in lower right)
+    * Files tab gives you access to the directories and files in the underlying computer
+    * Plots tab will show graphical representations of data
+    * Packages tab shows all of the software
+    * Help tab shows documentation on all of the software 
 
 
 
