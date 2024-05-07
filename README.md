@@ -27,7 +27,41 @@ RStudio makes is easier and more ituitive to use the R language by providing poi
 
 Rstudio can be ran on your local computer, on a server, or in the cloud (i.e., on a Posit Computer).
 
+<br/>
+<br/>
+<br/>
 
+## Launch RStudio on Posit Cloud
+
+Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans. It is probably easiest to sign-in using your University of Arizona Google account. 
+
+
+<br/>
+<br/>
+<br/>
+
+
+In the terminal:
+
+Make a new directory
+
+`mkdir r-novice-inflammation`
+
+Go into the newly created directory
+
+`cd r-novice-inflammation`
+
+Download r-novice-inflammation-data.zip
+
+`curl -o r-novice-inflammation-data.zip https://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip` 
+
+Unzip the file 
+
+`unzip r-novice-inflammation-data.zip`
+
+Once Unzipped, go into the data directory
+
+`cd data`
 
 How to navigate around Rstudio
 
@@ -52,27 +86,5 @@ getwd()
 
 
 
-Sign up for a free account with Posit Cloud to launch a cloud instance of RStudio https://posit.cloud/plans
 
-In the terminal:
-
-Make a new directory
-
-`mkdir r-novice-inflammation`
-
-Go into the newly created directory
-
-`cd r-novice-inflammation`
-
-Download r-novice-inflammation-data.zip
-
-`curl -o r-novice-inflammation-data.zip https://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip` 
-
-Unzip the file 
-
-`unzip r-novice-inflammation-data.zip`
-
-Once Unzipped, go into the data directory
-
-`cd data`
 
