@@ -120,7 +120,6 @@ variable assignments
 
 
 
-
 <br/>
 <br/>
 <br/>
@@ -128,14 +127,6 @@ variable assignments
 ## Download Patient Data
 
 In the terminal:
-
-Make a new directory
-
-`mkdir r-novice-inflammation`
-
-Go into the newly created directory
-
-`cd r-novice-inflammation`
 
 Download r-novice-inflammation-data.zip
 
@@ -148,4 +139,20 @@ Unzip the file
 Once Unzipped, go into the data directory
 
 `cd data`
+
+List the files in the directory 
+`ls`
+
+<br/>
+<br/>
+<br/>
+
+In the R script
+
+`read.csv(file = "data/inflammation-01.csv", header = FALSE)`
+
+`inflam = read.csv(file = "data/inflammation-01.csv", header = FALSE)`
+
+
+
 
