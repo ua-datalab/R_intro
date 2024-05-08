@@ -274,6 +274,34 @@ For row statistics try:
 
 `mean(as.numeric(inflam1[3, ]))`
 
+<br/>
+<br/>
 
+Use `summary` to get basic descriptive stats
 
+`summary(inflam1$V16)`
 
+<br/>
+<br/>
+
+Get the mean inflammation value for each patient. The '1' argument specifies rows. 
+
+`mean_patient_inflammation = apply(inflam1, 1, mean)`
+
+<br/>
+<br/>
+
+Get the mean inflammation value for each day. The '2' argument specifies columns.  
+
+`mean_day_inflammation = apply(inflam1, 2, mean)`
+
+<br/>
+<br/>
+
+Challenge: the apply function can be used to summarize datasets and subsets of data across rows and columns using the MARGIN argument. Suppose you want to calculate the mean inflammation for specific days and patients in the patient dataset (i.e. 60 patients across 40 days).
+
+Please use a combination of the apply function and indexing to:
+
+calculate the mean inflammation for patients 1 to 5 over the whole 40 days
+calculate the mean inflammation for days 1 to 10 (across all patients).
+calculate the mean inflammation for every second day (across all patients).
