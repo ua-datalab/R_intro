@@ -1,8 +1,8 @@
 # R_intro_posit_cloud
 
-This tutorial is supplemental information for the Carpentries intro lesson on R. https://swcarpentry.github.io/r-novice-inflammation/
+This is a tutorial on the very basics of R and RStudio. The tutorial is meant to use a cloud version of Rstudio with [Posit Cloud]() but can also be used with local installation. Most of the education material was pulled directly from Carpentries lessons on R, including:
 
-https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro.html
+https://swcarpentry.github.io/r-novice-inflammation/ and https://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro.html
 
 
 <br/>
