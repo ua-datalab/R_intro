@@ -165,6 +165,24 @@ Assign the data as a variable
 
 `inflam = read.csv(file = "data/inflammation-01.csv", header = FALSE)`
 
+<br/>
+<br/>
+
+## Query and Manipulate the Data
+
+Now that our data are loaded into R, we can start doing things with them. First, let’s ask what type of thing inflam1 is:
+
+`class(inflam1)`
+
+ouput = "data.frame"
+
+<br/>
+<br/>
+
+`dim(inflam1)`
+
+output = "60 40"
+
 
 
 
