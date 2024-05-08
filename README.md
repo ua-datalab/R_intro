@@ -154,6 +154,8 @@ List the files in the directory
 
 ## Bring the Patient Data Into RStudio
 
+In the R script, type:
+
 `read.csv(file = "data/inflammation-01.csv", header = FALSE)`
 
 <br/>
