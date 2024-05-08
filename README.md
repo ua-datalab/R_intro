@@ -116,10 +116,6 @@ variable assignments
 
 
 
-
-
-
-
 <br/>
 <br/>
 <br/>
@@ -132,13 +128,22 @@ Download r-novice-inflammation-data.zip
 
 `curl -o r-novice-inflammation-data.zip https://swcarpentry.github.io/r-novice-inflammation/data/r-novice-inflammation-data.zip` 
 
+<br/>
+<br/>
+
 Unzip the file 
 
 `unzip r-novice-inflammation-data.zip`
 
+<br/>
+<br/>
+
 Once Unzipped, go into the data directory
 
 `cd data`
+
+<br/>
+<br/>
 
 List the files in the directory 
 `ls`
@@ -147,9 +152,12 @@ List the files in the directory
 <br/>
 <br/>
 
-In the R script
+## Bring the Patient Data Into RStudio
 
 `read.csv(file = "data/inflammation-01.csv", header = FALSE)`
+
+<br/>
+<br/>
 
 `inflam = read.csv(file = "data/inflammation-01.csv", header = FALSE)`
 
