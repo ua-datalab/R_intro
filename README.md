@@ -258,6 +258,7 @@ Calculate the Mean value of column 16
 
 `mean(inflam1[, 16])`
 
+<br/>
 
 Calculate the Mean value of row 3
 
