@@ -298,7 +298,9 @@ Get the mean inflammation value for each day. The '2' argument specifies columns
 <br/>
 <br/>
 
-Challenge: the apply function can be used to summarize datasets and subsets of data across rows and columns using the MARGIN argument. Suppose you want to calculate the mean inflammation for specific days and patients in the patient dataset (i.e. 60 patients across 40 days).
+### Challenge
+
+The apply function can be used to summarize datasets and subsets of data across rows and columns using the MARGIN argument. Suppose you want to calculate the mean inflammation for specific days and patients in the patient dataset (i.e. 60 patients across 40 days).
 
 Please use a combination of the apply function and indexing to:
 
