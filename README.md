@@ -146,6 +146,7 @@ Once Unzipped, go into the data directory
 <br/>
 
 List the files in the directory 
+
 `ls`
 
 <br/>
@@ -182,6 +183,36 @@ ouput = "data.frame"
 `dim(inflam1)`
 
 output = "60 40"
+
+<br/>
+<br/>
+
+### Get data value from specific rows and columns
+
+Get value of row 1 and column 1
+
+`inflam[1,1]`
+
+<br/>
+
+Get value of row 30 and column 20
+
+`inflam1[30,20]`
+
+<br/>
+
+Get values from rows 1, 3, 5, and columns 10, 20
+
+`inflam1[c(1,3,5), c(10,20)]`
+
+<br/>
+
+Get values for rows 1-4, and columns 1-10
+
+`inflam1[1:4, 1:10]`
+
+
+
 
 
 
