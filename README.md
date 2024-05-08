@@ -122,6 +122,11 @@ variable assignments
 
 ## Download Patient Data
 
+We are studying inflammation in patients who have been given a new treatment for arthritis, and need to analyze the first dozen data sets of their daily inflammation. The data sets are stored in CSV format (comma-separated values): each row holds information for a single patient, and the columns represent successive days. 
+
+<br/>
+<br/>
+
 In the terminal:
 
 Download r-novice-inflammation-data.zip
@@ -211,7 +216,31 @@ Get values for rows 1-4, and columns 1-10
 
 `inflam1[1:4, 1:10]`
 
+<br/>
 
+Get values for row 5 and all columns
+
+`inflam1[5, ]`
+
+<br/>
+
+Get values from all rows, but only for columns 16-18
+
+`inflam1[, 16:18]`
+
+<br/>
+
+Assign the values to a new variable (ie, subset data)
+
+`subset = inflam1[, 16:18]`
+
+<br/>
+<br/>
+
+
+Addressing Columns by Name
+
+`
 
 
 
