@@ -302,6 +302,9 @@ Challenge: the apply function can be used to summarize datasets and subsets of d
 
 Please use a combination of the apply function and indexing to:
 
-calculate the mean inflammation for patients 1 to 5 over the whole 40 days
-calculate the mean inflammation for days 1 to 10 (across all patients).
-calculate the mean inflammation for every second day (across all patients).
+1. calculate the mean inflammation for patients 1 to 5 over the whole 40 days
+   
+2. calculate the mean inflammation for days 1 to 10 (across all patients)
+
+3. calculate the mean inflammation for every second day (across all patients)
+
