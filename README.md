@@ -310,3 +310,10 @@ Please use a combination of the apply function and indexing to:
 
 3. calculate the mean inflammation for every second day (across all patients)
 
+
+## Plotting
+
+`plot(mean_day_inflammation, xlab = "Day")`
+
+
+
