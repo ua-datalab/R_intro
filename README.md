@@ -192,7 +192,7 @@ output = "60 40"
 <br/>
 <br/>
 
-### Get data value from specific rows and columns
+### Get data values from specific rows and columns
 
 Get value of row 1 and column 1
 
@@ -240,8 +240,38 @@ Assign the values to a new variable (ie, subset data)
 
 Addressing Columns by Name
 
-`
+`column_16 = inflam$V16`
 
+<br/>
+<br/>
+
+### Descriptive Statistics
+
+Calculate the Median value of column 16
+
+`median(inflam1$V16)`
+
+<br/>
+<br/>
+
+Calculate the Mean value of column 16
+
+`mean(inflam1[, 16])`
+
+
+Calculate the Mean value of row 3
+
+`mean(inflam1[3, ]`
+
+<br/>
+
+Note that R may return an error when you attempt to perform similar calculations on subsetted rows of data frames. This is because some functions in R automatically convert the object type to a numeric vector, while others do not (e.g. max(dat[1, ]) works as expected, while mean(dat[1, ]) returns NA and a warning). You get the expected output by including an explicit call to as.numeric(), e.g. mean(as.numeric(dat[1, ])). By contrast, calculations on subsetted columns always work as expected, since columns of data frames are already defined as vectors.
+
+<br/>
+
+For row statistics try:
+
+`mean(as.numeric(inflam1[3, ]))`
 
 
 
