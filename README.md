@@ -323,4 +323,14 @@ Please use a combination of the apply function and indexing to:
 `plot(mean_day_inflammation, xlab = "Day")`
 
 
+## Write Out Data 
+
+Write subsetted data to a new CSV file in the current working directory
+
+`write.csv(mean_day_inflammation, file = 'mean_day_inflammation.csv')`
+
+## Download R Project to local computer
+
+## Share R Project on the Cloud
+
 
