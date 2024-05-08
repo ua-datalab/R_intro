@@ -161,6 +161,8 @@ In the R script, type:
 <br/>
 <br/>
 
+Assign the data as a variable
+
 `inflam = read.csv(file = "data/inflammation-01.csv", header = FALSE)`
 
 
