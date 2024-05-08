@@ -7,6 +7,12 @@ https://swcarpentry.github.io/r-novice-inflammation/ and https://swcarpentry.git
 
 <br/>
 <br/>
+
+<img src="/images/r_logo.jpeg" width=300>
+
+<img src="/images/rstudio_logo.jpeg" width=300>
+
+
 <br/>
 
 ## What is R?
