@@ -367,4 +367,16 @@ Write subsetted data to a new CSV file in the current working directory
 
 ## Share R Project on the Cloud
 
+<br/>
+<br/>
 
+## Where do I go from here?
+
+This content showed you the very basics of getting started with R and Rstudio using Posit Cloud. There is of course much more to learn about R, but proficiency will come with repeated use and a compelling reason for using it. In my opinion, the best way to learn R (or any other technology) is to have a specific goal in mind. If know what you want to accomplish, then you have the motivation to figure it out step by step. Please don't think you need to have a vast general knowledge of R before you can accomplish something great.
+
+Tips for Learning R 
+
+* Have a specific reason to use R and be curious about figuring out the steps to accomplish it
+* Use LLMs (chatGPT, Claude, Gemini) as your co-pilot to help you write code
+* Join the [Posit Community Forum](https://forum.posit.co/)
+* There are tons of free resources online to learn R. This content was pulled directly from lessons from [The Carpentries](https://carpentries.org/index.html)  
