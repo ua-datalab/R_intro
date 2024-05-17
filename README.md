@@ -276,7 +276,7 @@ Calculate the Mean value of column 16
 
 Calculate the Mean value of row 3
 
-`mean(inflam1[3, ]`
+`mean(inflam1[3, ])`
 
 <br/>
 
