@@ -345,7 +345,7 @@ Write subsetted data to a new CSV file in the current working directory
 
 ## Download R Project to local computer
 
-<img src="/images/posit_download" width=600>  
+<img src="/images/posit_download.png" width=600>  
 
 <br/>
 <br/>
