@@ -72,7 +72,7 @@ When you first open RStudio, you will be greeted by three panels:
 <br/>
 <br/>
 
-### Open a new R script (.R)
+#### Open a new R script (.R)
 
 _File_ >>> _New File_ >>> _Rscript_
 
@@ -112,7 +112,13 @@ or type
 
 #### Install New Packages
 
-install.packages("lidR")
+Often times, there are R software packages we want to use but are not currently installed. We can easily find, download, and install R packages from The Comprehensive R Archive Network (R CRAN). R CRAN is a online repository for approved R packages.  
+
+You can install packages using the Rstudio GUI (_Tools_ >>> _Install Packages_)
+
+Or you can install packages with commands
+
+`install.packages("lidR")`
 
 
 #### Bring Packages into Memory (ready for use)
