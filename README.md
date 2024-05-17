@@ -125,11 +125,8 @@ Or you can install packages with commands
 
 #### Bring Packages into Memory (ready for use)
 
-library("spatial")
+`library("spatial")`
 
-
-
-variable assignments
 
 
 
