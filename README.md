@@ -120,6 +120,8 @@ Or you can install packages with commands
 
 `install.packages("lidR")`
 
+<br/>
+<br/>
 
 #### Bring Packages into Memory (ready for use)
 
