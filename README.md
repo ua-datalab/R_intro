@@ -334,7 +334,6 @@ Please use a combination of the apply function and indexing to:
 `plot(mean_day_inflammation, xlab = "Day")`
 
 <br/>
-<br/>
 
 #### Bar plot
 
