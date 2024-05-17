@@ -329,7 +329,16 @@ Please use a combination of the apply function and indexing to:
 
 ## Plotting
 
+#### Scatter plot
+
 `plot(mean_day_inflammation, xlab = "Day")`
+
+<br/>
+<br/>
+
+#### Bar plot
+
+`barplot(mean_day_inflammation, main="Mean Inflammation Over Time", xlab="Day", ylab="Mean Inflammation", col = "blue")`
 
 <br/>
 <br/>
