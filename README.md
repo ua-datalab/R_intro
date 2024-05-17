@@ -340,6 +340,13 @@ Please use a combination of the apply function and indexing to:
 `barplot(mean_day_inflammation, main="Mean Inflammation Over Time", xlab="Day", ylab="Mean Inflammation", col = "blue")`
 
 <br/>
+
+#### Export Graph to Image
+
+
+
+
+<br/>
 <br/>
 
 ## Write Out Data 
