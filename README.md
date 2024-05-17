@@ -365,7 +365,7 @@ Write subsetted data to a new CSV file in the current working directory
 <br/>
 <br/>
 
-## Share R Project on the Cloud
+## R Shiny
 
 <br/>
 <br/>
