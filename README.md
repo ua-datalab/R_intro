@@ -210,7 +210,7 @@ output = "60 40"
 
 Get value of row 1 and column 1
 
-`inflam[1,1]`
+`inflam1[1,1]`
 
 <br/>
 
