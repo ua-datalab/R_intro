@@ -72,13 +72,11 @@ When you first open RStudio, you will be greeted by three panels:
 <br/>
 <br/>
 
-Open a new R script (.R)
+### Open a new R script (.R)
 
 _File_ >>> _New File_ >>> _Rscript_
 
 Once you open files, such as R scripts, an editor panel will also open in the top left. 
-
-File 
 
 An R script (.R) is a file that holds multiple R commands that can be run automatically in sequence. 
 
