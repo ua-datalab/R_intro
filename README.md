@@ -367,6 +367,11 @@ Write subsetted data to a new CSV file in the current working directory
 
 ## R Shiny
 
+[R Shiny](https://www.rstudio.com/products/shiny/) is an R package that makes it easy to create web applications to help colleagues and the public interact with your scientific data. 
+
+Check out some examples [here[(https://shiny.posit.co/) and [here](https://shiny.posit.co/r/gallery/#feature-demos)
+
+
 <br/>
 <br/>
 
